@@ -25,7 +25,7 @@ O site apresenta o poema **"Cordel Moderno"**, de **Milton Duarte**, utilizando 
 
 ## Fonte do Conteúdo
 
-O poema utilizado no projeto é **"Cordel Moderno"**, de :contentReference[oaicite:0]{index=0}.
+O poema utilizado no projeto é **"Cordel Moderno"**, de <a href="https://www.recantodasletras.com.br/poesias/3186743" target="_blank" rel="external">Milton Duarte</a>.
 
 ## Demonstração
 
