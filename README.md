@@ -29,7 +29,4 @@ O poema utilizado no projeto é **"Cordel Moderno"**, de <a href="https://www.re
 
 ## Demonstração
 
-Adicione aqui uma captura de tela do projeto:
-
-```html
 <img src="imagens/demo2.png" alt="Preview do Projeto Cordel">
