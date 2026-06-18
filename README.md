@@ -27,6 +27,10 @@ O site apresenta o poema **"Cordel Moderno"**, de **Milton Duarte**, utilizando 
 
 O poema utilizado no projeto é **"Cordel Moderno"**, de <a href="https://www.recantodasletras.com.br/poesias/3186743" target="_blank" rel="external">Milton Duarte</a>.
 
+## Link do Site
+
+<a href="https://pedroaraujo07.github.io/projeto-cordel/" target="_blank" rel="external">Clique aqui para abrir o Projeto Cordel</a>
+
 ## Demonstração
 
 <p align="center">
